@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatioColumnCalculator", "CreatioColumnCalculator\CreatioColumnCalculator.csproj", "{F745EDB2-AA4D-494B-B961-88013C4A43DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatioColumnCalculator.UnitTests", "CreatioColumnCalculator.UnitTests\CreatioColumnCalculator.UnitTests.csproj", "{1396E7DD-B7DD-429B-9024-A380F0E2FB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F745EDB2-AA4D-494B-B961-88013C4A43DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F745EDB2-AA4D-494B-B961-88013C4A43DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F745EDB2-AA4D-494B-B961-88013C4A43DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F745EDB2-AA4D-494B-B961-88013C4A43DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1396E7DD-B7DD-429B-9024-A380F0E2FB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1396E7DD-B7DD-429B-9024-A380F0E2FB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1396E7DD-B7DD-429B-9024-A380F0E2FB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1396E7DD-B7DD-429B-9024-A380F0E2FB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
